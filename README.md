@@ -1,11 +1,11 @@
-Atypique : Que l'on peut difficilement classer. 
-⚜ Chef Bleu @sgdf
-☕ Élève à l'@UPSSITECH
-Développeur de trucs inutiles(parfois).
-Café++
-@LaToileScoute
-
-*Yalla!*
+Atypique : Que l'on peut difficilement classer.    
+⚜ Chef Bleu @sgdf   
+☕ Élève à l'@UPSSITECH   
+Développeur de trucs inutiles(parfois).   
+Café++   
+@LaToileScoute   
+   
+*Yalla!*   
 
 
 
