@@ -1,6 +1,16 @@
-### Hi there 👋
+Atypique : Que l'on peut difficilement classer. 
+⚜ Chef Bleu @sgdf
+☕ Élève à l'@UPSSITECH
+Développeur de trucs inutiles(parfois).
+Café++
+@LaToileScoute
+
+*Yalla!*
+
+
 
 <!--
+### Hi there 👋
 **ctruillet/ctruillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
