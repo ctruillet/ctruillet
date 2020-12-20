@@ -1,8 +1,8 @@
 Atypique : Que l'on peut difficilement classer.    
 ⚜ Chef PioK @sgdf   
-☕ Élève à l'@UPSSITECH 
-✒ Expert Eleve Ingénieur @CTI
-Développeur de trucs inutiles(parfois).   
+☕ Élève à l'@UPSSITECH    
+✒ Expert Eleve Ingénieur @CTI   
+Développeur de trucs inutiles(parfois).      
 Café++   
 @LaToileScoute   
    
