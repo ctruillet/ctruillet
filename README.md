@@ -1,27 +1,17 @@
-Atypique : Que l'on peut difficilement classer.    
-⚜ Chef PioK @sgdf   
-☕ Élève à l'@UPSSITECH    
+### Hi there 👋, my name is Clément
+⚜ Chef PioK @sgdf      
 ✒ Expert Eleve Ingénieur @CTI   
-Développeur de trucs inutiles(parfois).      
-Café++   
-@LaToileScoute   
-   
-*Yalla!*   
+
+Skills: Java/C/C++/Python/MatLab/Android
+
+- 🔭 I’m currently working on ☕ UPSSITECH 
+- 🌱 I’m currently learning Robotics 
+- 📫 How to reach me: clement@ctruillet.eu 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ctruillet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ctruillet-000/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ctruillet/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/C_truillet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11300745)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ctruillet.eu)  
 
-<!--
-### Hi there 👋
-**ctruillet/ctruillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ctruillet&show_icons=true&count_private=true)  
 
-Here are some ideas to get you started:
+![GitHub metrics](https://metrics.lecoq.io/ctruillet)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
