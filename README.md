@@ -4,7 +4,7 @@ Un jour je rangerais, mais vous pouvez trouver une bonne partie de mes projets *
 J'ai appris majoritairement sur le tas, parfois pataugé dans l'incompréhention mais jusqu'ici, ça a toujours été un **plaisir** de faire tout ça.
 Les codes sont pas forcement très propres, incomplets mais vous savez, pourquoi remettre à demain ces trucs alors qu'on peut tout simplement les oublier ?
 
-Il faudrait que je m'occupe des licences de tout ces projets mais vous pouvez vous inspirer/copier/fork librement ! Citez moi ou non, à vous de voir ;)
+Il faudrait que je m'occupe des licences de tout ces projets mais vous pouvez vous inspirer/copier/fork librement ! Citez moi seulement ;)
 
 En terme de languages, ma derniere experience avec le web m'en a eloigné jusqu'à ici, je retenterais le coup peut-être un jour !
 Sinon, je fais du **C/C++**, **Java**, **Python** et du **MatLab** (eurk), je me débrouille bien ou très bien aussi avec ce qui touche à du **shell** et à **git** (bien sûr).   
